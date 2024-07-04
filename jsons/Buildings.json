@@ -27,6 +27,7 @@
 		    "Damage is ignored when determining unit Strength <for [Human player]>",
 		    "Great General provides double combat bonus <for [Human player]>",
 	            "Notified of new Barbarian encampments <for [Human player]>" ,"All healing effects doubled <for [Human player]>",
+		    "Withdraws before melee combat <with [9999]% chance> <for [Human player]>",
 		    "Earn [100]% of killed [All] unit's [Strength] as [Gold] <for [Human player]>",
 		    "Earn [100]% of killed [All] unit's [Strength] as [Culture] <for [Human player]>",
 		    "Earn [100]% of killed [All] unit's [Strength] as [Faith] <for [Human player]>",
