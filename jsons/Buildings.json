@@ -15,15 +15,17 @@
 		    "[-100]% Unhappiness from [Population] [in all cities] <for [Human player]>",
 		    "[+500]% Strength <for [all] units> <for [Human player]>",
 		    "Great General provides double combat bonus <for [Human player]>",
-	            "Notified of new Barbarian encampments <for [Human player]>" ,"All healing effects doubled <for [Human player]>",
+	            "Notified of new Barbarian encampments <for [Human player]>", 
+		    "All healing effects doubled <for [Human player]>",
 		    "Earn [100]% of killed [All] unit's [Strength] as [Gold] <for [Human player]>",
 		    "Earn [100]% of killed [All] unit's [Strength] as [Culture] <for [Human player]>",
 		    "Earn [100]% of killed [All] unit's [Strength] as [Faith] <for [Human player]>",
                     "Earn [100]% of killed [All] unit's [Strength] as [Science] <for [Human player]>",
 		    "May choose [1] additional [Founder] beliefs when [founding] a religion <for [Human player]>",
-		    "[10] Movement <for [All] units> <for [Human player]>", "[4] Sight <for [All] units> <for [Human player]>",
+		    "[10] Movement <for [All] units> <for [Human player]>", 
+		    "[4] Sight <for [All] units> <for [Human player]>",
 		    "All newly-trained [all] units [in all cities] receive the [NearOmnipotence] promotion",
-		    "[+5 Culture, +5 Production, +100000 Happiness] [in all cities] <for [Human player]>"]
+		    "[+5 Culture, +5 Production, +100000 Happiness] [in all cities] <for [Human player]>",
 	},
 	{
 	"name": "Get Op Promotion"
