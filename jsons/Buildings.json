@@ -35,6 +35,7 @@
 		    "Only available <for [Human player]>",
 		    "Unbuildable <for [AI player]>",
 		    "Limited to [1] per Civilization",
+		    "[All] units gain the [NearOmnipotence] promotion",
 		    "Remove [Get Op Promotion] [in this city]",
 	}
 ]
