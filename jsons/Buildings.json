@@ -27,6 +27,7 @@
 		    "All newly-trained [all] units [in all cities] receive the [NearOmnipotence] promotion",
 		    "[+5 Culture, +5 Production, +100000 Happiness] [in all cities] <for [Human player]>",
 	},
+	
 	{
 	   "name": "Get Op Promotion"
 	   "cost": 1,
