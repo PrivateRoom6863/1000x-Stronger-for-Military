@@ -2,6 +2,9 @@
 [
 	{
 		"name": "Totem of Immortality",
+		"cost": 1,
+		"hurryCostModifier": 1,
+		"maintenance": 0,
 		"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
