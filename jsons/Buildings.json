@@ -1,11 +1,11 @@
 
 [
 	{
-		"name": "Totem of Immortality",
-		"cost": 1,
-		"hurryCostModifier": 1,
-		"maintenance": 0,
-		"uniques": [ "Automatically built in all cities where it is buildable",
+	"name": "Totem of Immortality",
+	"cost": 1,
+	"hurryCostModifier": 1,
+	"maintenance": 0,
+	"uniques": [ "Automatically built in all cities where it is buildable",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable <for [AI player]>",
@@ -26,11 +26,11 @@
 		    "[+5 Culture, +5 Production, +100000 Happiness] [in all cities] <for [Human player]>"]
 	},
 	{
-		"name": "Get Op Promotion"
-		"cost": 1,
-		"hurryCostModifier": 1,
-		"maintenance": 0,
-		"uniques": [ "Can be purchased for [0] [Gold] [in all cities]",
+	"name": "Get Op Promotion"
+	"cost": 1,
+	"hurryCostModifier": 1,
+	"maintenance": 0,
+	"uniques": [ "Can be purchased for [0] [Gold] [in all cities]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable <for [AI player]>",
