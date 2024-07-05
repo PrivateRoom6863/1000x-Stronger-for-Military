@@ -2,13 +2,10 @@
 [
 	{
 	   "name": "Totem of Immortality",
-	   "cost": 1,
-	   "hurryCostModifier": 1,
-	   "maintenance": 0,
-	   "uniques": [ "Automatically built in all cities where it is buildable",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
-		    "Unbuildable <for [AI player]>",
+		    "Unbuildable",
 		    "Limited to [1] per Civilization",
 		    "[+80]% Production when constructing [all] units [in all cities] <for [Human player]>",
 		    "Damage is ignored when determining unit Strength <for [Human player]>",
@@ -29,14 +26,11 @@
 	},
 	{
 	   "name": "GetGOOD",
-	   "cost": 1,
-	   "hurryCostModifier": 1,
-	   "maintenance": 0,
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Limited to [1] per Civilization",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
-		    "Unbuildable <for [AI player]>",
+		    "Unbuildable",
 		    "Remove [GetGOOD] [in this city]",
 		    "[All] units gain the [NearOmnipotence] promotion" ]
 	}
