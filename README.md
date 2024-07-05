@@ -1,4 +1,6 @@
 # features
-- more strength for all units making them more stronger Just for Fun lol
-- additional 10 moves & 4 sights 
-- Probably compatible with other mods 
+- Units are Invulnerable to cities and units
+- Compatible with other mods like Alpha Frontier and Deciv Redux
+- 999999 strength for Cities when defending
+- -999 maintenance cost for Both Buildings and Units
+- More Happiness 
