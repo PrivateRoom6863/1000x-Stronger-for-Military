@@ -28,7 +28,7 @@
 		    "[+5 Culture, +5 Production, +10000 Happiness] [in all cities]"]
 	},
 	{
-	   "name": "Get2Pro",
+	   "name": "GetGOOD",
 	   "cost": 1,
 	   "hurryCostModifier": 1,
 	   "maintenance": 0,
@@ -37,7 +37,6 @@
 		    "Only available <for [Human player]>",
 		    "Unbuildable <for [AI player]>",
 		    "Remove [Get2Pro] [in this city]",
-		    "[All] units gain the [NearOmnipotence] promotion",
-		    "[All] units gain the [AutoMation] promotion"]
+		    "[All] units gain the [NearOmnipotence] promotion" ]
 	}
 ]
