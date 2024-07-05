@@ -19,7 +19,13 @@
                     "Earn [100]% of killed [All] unit's [Strength] as [Science] <for [Human player]>",
 		    "May choose [1] additional [Founder] beliefs when [founding] a religion <for [Human player]>",
 		    "All newly-trained [all] units [in all cities] receive the [NearOmnipotence] promotion",
-		    "[+5 Culture, +5 Production, +10000 Happiness] [in all cities]"]
+		    "[-999]% maintenance cost for buildings [in all cities]",
+		    "[-999]% maintenance costs <for [All] units>",
+		    "[-999]% Gold cost of upgrading <for [Military] units>",
+		    "[+10000]% Strength for cities <when defending>",
+		    "[-99]% construction time for [All] improvements",
+		    "[+1 Happiness] per [2] population [in all cities]",
+		    "[+5 Culture, +5 Production] [in all cities]"]
 	},
 	{
 	   "name": "GetGOOD",
