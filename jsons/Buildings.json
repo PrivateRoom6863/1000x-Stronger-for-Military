@@ -7,7 +7,6 @@
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
 		    "Limited to [1] per Civilization",
-		    "[+80]% Production when constructing [all] units [in all cities] <for [Human player]>",
 		    "[-100]% Unhappiness from [Population] [in all cities] <for [Human player]>",
 	            "Notified of new Barbarian encampments <for [Human player]>", 
 		    "Earn [100]% of killed [All] unit's [Strength] as [Gold] <for [Human player]>",
@@ -19,7 +18,7 @@
 		    "[-999]% maintenance cost for buildings [in all cities]",
 		    "[-999]% maintenance costs <for [All] units>",
 		    "[-999]% Gold cost of upgrading <for [Military] units>",
-		    "[+10000]% Strength for cities <when defending>",
+		    "[+99999999]% Strength for cities <when defending>",
 		    "[-99]% construction time for [All] improvements",
 		    "[+1 Happiness] per [2] population [in all cities]",
 		    "[+5 Culture, +5 Production] [in all cities]"]
