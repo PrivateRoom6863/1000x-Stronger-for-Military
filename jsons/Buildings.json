@@ -25,7 +25,7 @@
 		    "[10] Movement <for [All] units> <for [Human player]>", 
 		    "[4] Sight <for [All] units> <for [Human player]>",
 		    "All newly-trained [all] units [in all cities] receive the [NearOmnipotence] promotion",
-		    "[+5 Culture, +5 Production, +100 Happiness] [in all cities]",
+		    "[+5 Culture, +5 Production, +10000 Happiness] [in all cities]"
 	},
 	{
 	   "name": "Get2Pro",
@@ -38,6 +38,6 @@
 		    "Unbuildable <for [AI player]>",
 		    "Remove [Get2Pro] [in this city]",
 		    "[All] units gain the [NearOmnipotence] promotion",
-		    "[All] units gain the [AutoMation] promotion",
+		    "[All] units gain the [AutoMation] promotion"
 	}
 ]
