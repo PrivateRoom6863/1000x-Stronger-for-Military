@@ -2,7 +2,7 @@
 
    { 
      "name": "NearOmnipotence",
-     "uniques": ["Invisible to others", "Can see invisible [All] units", "Uncapturable", "[5] additional attacks per turn", "Can move after attacking", "Heals [99] damage if it kills a unit", "[+99] HP when healing", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action"]
+     "uniques": ["All adjacent units heal [+99] HP when healing", "Can see invisible [All] units", "[+10000]% Strength <when defending>", "Uncapturable", "[10] additional attacks per turn", "Can move after attacking", "Heals [99] damage if it kills a unit", "[+99] HP when healing", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action"]
    }
 
 ]
