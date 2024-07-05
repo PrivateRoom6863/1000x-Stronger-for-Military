@@ -33,10 +33,11 @@
 	   "hurryCostModifier": 1,
 	   "maintenance": 0,
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
+		    "Limited to [1] per Civilization",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable <for [AI player]>",
-		    "Remove [Get2Pro] [in this city]",
+		    "Remove [GetGOOD] [in this city]",
 		    "[All] units gain the [NearOmnipotence] promotion" ]
 	}
 ]
