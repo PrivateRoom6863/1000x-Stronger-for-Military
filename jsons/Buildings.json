@@ -10,7 +10,6 @@
 		    "[+80]% Production when constructing [all] units [in all cities] <for [Human player]>",
 		    "Damage is ignored when determining unit Strength <for [Human player]>",
 		    "[-100]% Unhappiness from [Population] [in all cities] <for [Human player]>",
-		    "[+100]% Strength <for [all] units> <for [Human player]>",
 		    "Great General provides double combat bonus <for [Human player]>",
 	            "Notified of new Barbarian encampments <for [Human player]>", 
 		    "All healing effects doubled <for [Human player]>",
@@ -19,8 +18,6 @@
 		    "Earn [100]% of killed [All] unit's [Strength] as [Faith] <for [Human player]>",
                     "Earn [100]% of killed [All] unit's [Strength] as [Science] <for [Human player]>",
 		    "May choose [1] additional [Founder] beliefs when [founding] a religion <for [Human player]>",
-		    "[10] Movement <for [All] units> <for [Human player]>", 
-		    "[4] Sight <for [All] units> <for [Human player]>",
 		    "All newly-trained [all] units [in all cities] receive the [NearOmnipotence] promotion",
 		    "[+5 Culture, +5 Production, +10000 Happiness] [in all cities]"]
 	},
@@ -33,5 +30,13 @@
 		    "Unbuildable",
 		    "Remove [GetGOOD] [in this city]",
 		    "[All] units gain the [NearOmnipotence] promotion" ]
+	},
+	{
+	   "name": "100000+ Happiness",
+		"uniques": [ "Can be purchased for [0] [Gold] [in this city]",
+		    "Limited to [1] per Civilization",
+		    "Destroyed when the city is captured",
+		    "Only available <for [Human player]>",
+		    "Unbuildable"]
 	}
 ]
