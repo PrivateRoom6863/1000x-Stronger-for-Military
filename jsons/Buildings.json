@@ -10,7 +10,7 @@
 		    "[+80]% Production when constructing [all] units [in all cities] <for [Human player]>",
 		    "Damage is ignored when determining unit Strength <for [Human player]>",
 		    "[-100]% Unhappiness from [Population] [in all cities] <for [Human player]>",
-		    "[+200]% Strength <for [all] units> <for [Human player]>",
+		    "[+100]% Strength <for [all] units> <for [Human player]>",
 		    "Great General provides double combat bonus <for [Human player]>",
 	            "Notified of new Barbarian encampments <for [Human player]>", 
 		    "All healing effects doubled <for [Human player]>",
