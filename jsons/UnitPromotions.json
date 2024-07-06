@@ -2,7 +2,7 @@
 
    { 
      "name": "NearOmnipotence",
-     "uniques": ["All adjacent units heal [+99] HP when healing", "[+100]% Strength <vs [Wounded] units>", "Ranged attacks may be performed over obstacles", "Can see invisible [All] units", "Damage is ignored when determining unit Strength", "[+9999999]% Strength <when defending>", "Uncapturable", "[10] additional attacks per turn", "Can move after attacking", "Heals [99] damage if it kills a unit", "[+2] Range", "[+99] HP when healing", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action"]
+     "uniques": ["All adjacent units heal [+99] HP when healing", "[+10000]% Strength <vs [Wounded] units>", "May capture killed [All] units", "Ranged attacks may be performed over obstacles", "Can see invisible [All] units", "Damage is ignored when determining unit Strength", "[+9999999]% Strength <when defending>", "Uncapturable", "[10] additional attacks per turn", "Can move after attacking", "Heals [99] damage if it kills a unit", "[+2] Range", "[+99] HP when healing", "Ignores terrain cost", "Unit will heal every turn, even if it performs an action"]
    }
 
 ]
