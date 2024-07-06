@@ -2,7 +2,7 @@
 [
 	{
 	   "name": "Totem of Immortality",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
@@ -33,7 +33,7 @@
 	   "cost": 1,
 	   "hurryCostModifier": 0,
 	   "maintenance": 0,
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
 		    "Limited to [1] per Civilization",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
@@ -42,7 +42,7 @@
 	},
 	{
 	   "name": "100000+ Happiness",
-		"uniques": [ "Can be purchased for [0] [Gold] [in this city]",
+		"uniques": [ "Can be purchased for [0] [Culture] [in this city]",
 		    "Limited to [1] per Civilization",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
