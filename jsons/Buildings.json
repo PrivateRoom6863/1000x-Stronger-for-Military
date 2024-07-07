@@ -19,7 +19,6 @@
 		    "May buy [All] units for [0] [Faith] [in all cities]",
 		    "[1000] Unit Supply per city",
 		    "[-100]% Gold cost of upgrading <for [Military] units>",
-		    "Automation is a primary action <for [All] units>",
 		    "Cities are razed [1000] times as fast",
 		    "[+1000]% Golden Age length",
 		    "[+99999999]% Strength <for [All] units> <when defending>",
@@ -30,14 +29,11 @@
 	},
 	{
 	   "name": "GetGOOD",
-	   "cost": 1,
-	   "hurryCostModifier": 0,
-	   "maintenance": 0,
 	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
 		    "Limited to [1] per Civilization",
 		    "Destroyed when the city is captured",
+		    "Unbuildable",
 		    "Only available <for [Human player]>",
-		    "Remove [GetGOOD] [in this city]",
 		    "[All] units gain the [NearOmnipotence] promotion" ]
 	},
 	{
