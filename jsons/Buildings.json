@@ -55,7 +55,7 @@
 		    "Notified of new Barbarian encampments", 
 		    "Earn [100]% of killed [All] unit's [Strength] as [Gold]",
 		    "Earn [100]% of killed [All] unit's [Strength] as [Culture]",
-		    "Earn [100]% of killed [All] unit's [Strength] as [Faith] <Hidden when religion is disabled>",
+		    "Earn [100]% of killed [All] unit's [Strength] as [Faith] Hidden when religion is disabled",
                     "Earn [100]% of killed [All] unit's [Strength] as [Science"]
 	}
 ]
