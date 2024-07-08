@@ -1,31 +1,18 @@
 
 [
 	{
-	   "name": "Totem of Insanity",
+	   "name": "-10000% unhappiness",
 	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
 		    "Limited to [1] per Civilization",
+		    "[+99999]% Golden Age length",
 		    "[-10000]% Unhappiness from [Population] [in all cities]",
-		    "[-99]% maintenance cost for buildings [in all cities]",
-		    "[-99]% maintenance costs <for [All] units>",
-		    "May buy [All] buildings for [0] [Culture] [in all cities]",
-		    "May buy [All] units for [0] [Culture] [in all cities]",
-		    "May buy [All] buildings for [0] [Gold] [in all cities]",
-		    "May buy [All] units for [0] [Gold] [in all cities]",
-		    "May buy [All] buildings for [0] [Faith] [in all cities]",
-		    "May buy [All] units for [0] [Faith] [in all cities]",
-		    "[1000] Unit Supply per city",
-		    "[-100]% Gold cost of upgrading <for [Military] units>",
-		    "Cities are razed [1000] times as fast",
-		    "[+1000]% Golden Age length",
-		    "[-99]% construction time for [All] improvements",
-		    "[+1 Happiness] per [2] population [in all cities]",
-		    "[+5 Culture, +5 Production] [in all cities]"]
+		    "[-10000]% unhappiness from the number of cities"]
 	},
 	{
-	   "name": "Totem of Undying",
+	   "name": "Immortal Units",
 	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
 		    "Limited to [1] per Civilization",
 		    "Destroyed when the city is captured",
@@ -34,7 +21,7 @@
 		    "[All] units gain the [NearOmnipotence] promotion" ]
 	},
 	{
-	   "name": "Totem of Indestructible",
+	   "name": "Indestructible Cities",
 	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
 		    "Limited to [1] per Civilization",
 		    "Destroyed when the city is captured",
@@ -43,14 +30,69 @@
 		    "[+99999999]% Strength for cities <when defending>" ]
 	},
 	{
-	   "name": "100000+ Happiness",
-		"uniques": [ "Can be purchased for [0] [Culture] [in this city]",
-		    "Limited to [1] per Civilization",
+	   "name": "No Maintenance",
+	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
-		    "[+100000 Happiness] [in this city]",
-		    "Unbuildable"]
-	}, 
+		    "Unbuildable",
+		    "Limited to [1] per Civilization",
+		    "[-99]% maintenance cost for buildings [in all cities]",
+		    "[-99]% maintenance costs <for [All] units>",
+		    "No Maintenance costs for improvements in [All] tiles",
+		    "[-99]% maintenance on road & railroads"]
+	},
+	{
+	   "name": "Buy everything",
+	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+		    "Destroyed when the city is captured",
+		    "Only available <for [Human player]>",
+		    "Unbuildable",
+		    "Limited to [1] per Civilization",
+		    "May buy [All] buildings for [0] [Culture] [in all cities]",
+		    "May buy [All] units for [0] [Culture] [in all cities]",
+		    "May buy [All] buildings for [0] [Gold] [in all cities]",
+		    "May buy [All] units for [0] [Gold] [in all cities]",
+		    "May buy [All] buildings for [0] [Faith] [in all cities]",
+		    "May buy [All] units for [0] [Faith] [in all cities]",
+		    "[-100]% Gold cost of upgrading <for [Military] units>",
+	            "[-9999]% Gold cost of acquiring tiles [in all cities]"]
+	},
+	{
+	   "name": "1000 supply",
+	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+		    "Destroyed when the city is captured",
+		    "Only available <for [Human player]>",
+		    "Unbuildable",
+		    "Limited to [1] per Civilization",
+		    "[1000] Unit Supply per city"]
+	},
+	{
+	   "name": "1 Turn Construction",
+	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+		    "Destroyed when the city is captured",
+		    "Only available <for [Human player]>",
+		    "Unbuildable",
+		    "Limited to [1] per Civilization",
+		    "[-99]% construction time for [All] improvements"]
+	},
+	{
+	   "name": "100+ Unit Production",
+	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+		    "Destroyed when the city is captured",
+		    "Only available <for [Human player]>",
+		    "Unbuildable",
+		    "Limited to [1] per Civilization",
+		    "[+100]% Production when constructing [All] units [in all cities]"]
+	},
+	{
+	   "name": "100+ Buildings Production",
+	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+		    "Destroyed when the city is captured",
+		    "Only available <for [Human player]>",
+		    "Unbuildable",
+		    "Limited to [1] per Civilization",
+		    "[+100]% Production when constructing [All] buildings [in all cities]"]
+	},
 	{
 	   "name": "Unit Rewards Bonus except Faith",
 	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
