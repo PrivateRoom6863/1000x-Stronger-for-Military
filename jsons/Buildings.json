@@ -1,15 +1,15 @@
 
 [
 	{
-	   "name": "-10000% unhappiness",
+	   "name": "-100% unhappiness",
 	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
 		    "Limited to [1] per Civilization",
 		    "[+99999]% Golden Age length",
-		    "[-10000]% Unhappiness from [Population] [in all cities]",
-		    "[-10000]% unhappiness from the number of cities"]
+		    "[-100]% Unhappiness from [Population] [in all cities]",
+		    "[-100]% unhappiness from the number of cities"]
 	},
 	{
 	   "name": "Immortal Units",
@@ -36,10 +36,10 @@
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
 		    "Limited to [1] per Civilization",
-		    "[-99]% maintenance cost for buildings [in all cities]",
-		    "[-99]% maintenance costs <for [All] units>",
+		    "[-100]% maintenance cost for buildings [in all cities]",
+		    "[-100]% maintenance costs <for [All] units>",
 		    "No Maintenance costs for improvements in [All] tiles",
-		    "[-99]% maintenance on road & railroads"]
+		    "[-100]% maintenance on road & railroads"]
 	},
 	{
 	   "name": "Buy everything",
@@ -55,16 +55,16 @@
 		    "May buy [All] buildings for [0] [Faith] [in all cities]",
 		    "May buy [All] units for [0] [Faith] [in all cities]",
 		    "[-100]% Gold cost of upgrading <for [Military] units>",
-	            "[-9999]% Gold cost of acquiring tiles [in all cities]"]
+	            "[-100]% Gold cost of acquiring tiles [in all cities]"]
 	},
 	{
-	   "name": "1000 supply",
+	   "name": "150 supply",
 	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
 		    "Limited to [1] per Civilization",
-		    "[1000] Unit Supply per city"]
+		    "[150] Unit Supply per city"]
 	},
 	{
 	   "name": "1 Turn Construction",
