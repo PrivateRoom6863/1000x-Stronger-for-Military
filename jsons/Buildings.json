@@ -31,8 +31,16 @@
 		    "Destroyed when the city is captured",
 		    "Unbuildable",
 		    "Only available <for [Human player]>",
-		    "[+99999999]% Strength for cities <when defending>",
 		    "[All] units gain the [NearOmnipotence] promotion" ]
+	},
+	{
+	   "name": "Totem of Indestructible",
+	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+		    "Limited to [1] per Civilization",
+		    "Destroyed when the city is captured",
+		    "Unbuildable",
+		    "Only available <for [Human player]>",
+		    "[+99999999]% Strength for cities <when defending>" ]
 	},
 	{
 	   "name": "100000+ Happiness",
