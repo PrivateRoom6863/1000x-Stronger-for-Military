@@ -82,7 +82,7 @@
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
 		    "Limited to [1] per Civilization",
-		    "[+100]% Production when constructing [All] units [in all cities]"]
+		    "[+150]% Production when constructing [All] units [in all cities]"]
 	},
 	{
 	   "name": "100+ Buildings Production",
@@ -91,7 +91,7 @@
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
 		    "Limited to [1] per Civilization",
-		    "[+100]% Production when constructing [All] buildings [in all cities]"]
+		    "[+150]% Production when constructing [All] buildings [in all cities]"]
 	},
 	{
 	   "name": "Unit Rewards Bonus except Faith",
