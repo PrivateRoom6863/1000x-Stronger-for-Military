@@ -21,7 +21,7 @@
 		    "[All] units gain the [Omnipotence] promotion" ]
 	},
 	{
-	   "name": "Immortal Units",
+	   "name": "Invulnerable Units",
 	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
 		    "Limited to [1] per Civilization",
 		    "Destroyed when the city is captured",
