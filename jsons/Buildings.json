@@ -18,7 +18,16 @@
 		    "Destroyed when the city is captured",
 		    "Unbuildable",
 		    "Only available <for [Human player]>",
-		    "[All] units gain the [NearOmnipotence] promotion" ]
+		    "[All] units gain the [Omnipotence] promotion" ]
+	},
+	{
+	   "name": "Immortal Units",
+	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+		    "Limited to [1] per Civilization",
+		    "Destroyed when the city is captured",
+		    "Unbuildable",
+		    "Only available <for [Human player]>",
+		    "[All] units gain the [More Invulnerability] promotion" ]
 	},
 	{
 	   "name": "Indestructible Cities",
