@@ -2,7 +2,7 @@
 [
 	{
 	   "name": "-100% unhappiness",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
@@ -13,7 +13,7 @@
 	},
 	{
 	   "name": "Immortal Units",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Limited to [1] per Civilization",
 		    "Destroyed when the city is captured",
 		    "Unbuildable",
@@ -22,7 +22,7 @@
 	},
 	{
 	   "name": "Invulnerable Units",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Limited to [1] per Civilization",
 		    "Destroyed when the city is captured",
 		    "Unbuildable",
@@ -31,7 +31,7 @@
 	},
 	{
 	   "name": "Indestructible Cities",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Limited to [1] per Civilization",
 		    "Destroyed when the city is captured",
 		    "Unbuildable",
@@ -40,7 +40,7 @@
 	},
 	{
 	   "name": "No Maintenance",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
@@ -52,7 +52,7 @@
 	},
 	{
 	   "name": "Buy everything",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
@@ -68,7 +68,7 @@
 	},
 	{
 	   "name": "150 supply",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
@@ -77,7 +77,7 @@
 	},
 	{
 	   "name": "1 Turn Construction",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
@@ -86,7 +86,7 @@
 	},
 	{
 	   "name": "100+ Unit Production",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
@@ -95,7 +95,7 @@
 	},
 	{
 	   "name": "100+ Buildings Production",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
@@ -104,7 +104,7 @@
 	},
 	{
 	   "name": "Unit Rewards Bonus except Faith",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
@@ -116,7 +116,7 @@
 	},
 	{
 	   "name": "Unit Rewards Bonus For Faith",
-	   "uniques": [ "Can be purchased for [0] [Culture] [in this city]",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
