@@ -10,5 +10,7 @@
 			"All adjacent units heal [+100] HP when healing", "[+100] HP when healing",
             "Great Person - [War]", "Uncapturable"],
 		"movement": 5
+	         "cost": 1
+	         "hurryCostModifier": 0
  }
 ]
