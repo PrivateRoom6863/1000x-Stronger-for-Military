@@ -22,4 +22,11 @@
 		 "Can build [Great Improvement] improvements on tiles",
 		 "Can build [resource] improvements on tiles",
 		 "Can build [Featureless] improvements on tiles",
+		 "[+9999999]% Strength <when defending>",
+		 "[-9999999]% Strength <when attacking>",
+		 "[-100]% construction time for [Great Improvement] improvements",
+		 "[-100]% construction time for [resource] improvements",
+		 "[-100]% construction time for [Featureless] improvements",
+		 "Uncapturable"]
+ }
 ]
