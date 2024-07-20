@@ -27,6 +27,8 @@
 		 "[-100]% construction time for [Great Improvement] improvements",
 		 "[-100]% construction time for [resource] improvements",
 		 "[-100]% construction time for [Featureless] improvements",
+		 "Limited to [5] per Civilization",
+		 "Only available <for [Human player]>", 
 		 "Uncapturable"]
  }
 ]
