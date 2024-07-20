@@ -1,10 +1,10 @@
 [
  {
-		"name": "!  ! !",
+		"name": "Stronger General",
 		"unitType": "General",
 		"uniques": [
             "Empire enters a [20]-turn Golden Age <by consuming this unit>",
-            "[+150]% Strength bonus for [Military] units within [5] tiles",
+            "[+200]% Strength bonus for [Military] units within [3] tiles",
             "Great General provides double combat bonus",
 			"Limited to [1] per Civilization",
 			"All adjacent units heal [+100] HP when healing", "[+100] HP when healing",
