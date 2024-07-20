@@ -43,5 +43,17 @@
 	 "movement": 2
 	         "cost": 0
 	         "hurryCostModifier": 0
+ },
+ { 
+	 "name": "Normal Settler",
+	 "unitType": "Class S Civilian",
+	 "uniques": [
+		 "Founds a new city",
+		 "Uncapturable",
+		 "Limited to [1] per Civilization",
+		 "Only available <for [Human player]>"],
+	 "movement": 2
+	 "cost": 0
+	 "hurryCostModifier": 0
  }
 ]
