@@ -15,23 +15,6 @@
 	         "hurryCostModifier": 0
  },
  {
-	 "name": "Stronger Worker",
-	 "unitType": "Class S Civilian",
-	 "strength": 1,
-	 "uniques": [
-		 "Can be purchased for [0] [Gold] [in all cities]",
-		 "Can build [All] improvements on tiles",
-		 "[+9999999]% Strength <when defending>",
-		 "[-9999999]% Strength <when attacking>",
-		 "[-100]% construction time for [All] improvements",
-		 "Limited to [5] per Civilization",
-		 "Only available <for [Human player]>", 
-		 "Uncapturable"],
-	 "movement": 2
-	         "cost": 99999999
-	         "hurryCostModifier": 99999999
- },
- {
 	  "name": "Normal Worker",
 	 "unitType": "Class S Civilian",
 	 "uniques": [
