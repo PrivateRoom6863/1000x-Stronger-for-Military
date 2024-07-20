@@ -13,5 +13,13 @@
 		"movement": 5
 	         "cost": 0
 	         "hurryCostModifier": 0
- }
+ },
+ {
+	 "name": "Stronger Worker",
+	 "unitType": "Class S Civilian",
+	 "strength": 1,
+	 "uniques": [
+		 "Can build [Great Improvement] improvements on tiles",
+		 "Can build [resource] improvements on tiles",
+		 "Can build [Featureless] improvements on tiles",
 ]
