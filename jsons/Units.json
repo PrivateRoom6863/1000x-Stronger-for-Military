@@ -8,6 +8,7 @@
             "Great General provides double combat bonus",
 			"Limited to [1] per Civilization",
 			"All adjacent units heal [+100] HP when healing", "[+100] HP when healing",
+			"Only available <for [Human player]>", 
             "Great Person - [War]", "Uncapturable"],
 		"movement": 5
 	         "cost": 1
