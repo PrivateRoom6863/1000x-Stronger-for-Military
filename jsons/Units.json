@@ -27,6 +27,18 @@
 	         "cost": 0
 	         "hurryCostModifier": 0
  },
+ {
+	"name": "KratoS",
+	 "unitType": "Class S Military",
+	 "uniques": [
+		 "Invulnerability",
+		 "Limited to [5] per Civilization",
+		 "Only available <for [Human player]>", 
+		 "Uncapturable"],
+	 "movement": 2
+	         "cost": 0
+	         "hurryCostModifier": 0
+ },
  { 
 	 "name": "Normal Settler",
 	 "unitType": "Class S Civilian",
