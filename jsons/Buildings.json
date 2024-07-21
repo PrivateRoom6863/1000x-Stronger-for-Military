@@ -7,9 +7,18 @@
 		    "Only available <for [Human player]>",
 		    "Unbuildable",
 		    "Limited to [1] per Civilization",
-		    "[+99999]% Golden Age length",
 		    "[-100]% Unhappiness from [Population] [in all cities]",
 		    "[-100]% unhappiness from the number of cities"]
+	},
+	{
+	   "name": "-50% unhappiness",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
+		    "Destroyed when the city is captured",
+		    "Only available <for [Human player]>",
+		    "Unbuildable",
+		    "Limited to [1] per Civilization",
+		    "[-50]% Unhappiness from [Population] [in all cities]",
+		    "[-50]% unhappiness from the number of cities"]
 	},
 	{
 	   "name": "Immortal Units",
