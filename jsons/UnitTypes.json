@@ -4,6 +4,10 @@
         "movementType": "Land"
  },
  {
+        "name": "Class S Military",
+        "movementType": "Land"
+ },
+ {
         "name": "Class S Civilian"
         "movementType": "Land"
  }
