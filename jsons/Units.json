@@ -17,7 +17,9 @@
 	  "name": "Normal Worker",
 	 "unitType": "Class S Civilian",
 	 "uniques": [
-		 "Can build [All] improvements on tiles",
+		 "Can build [Land] improvements on tiles",
+		 "Can build [Water] improvements on tiles",
+		 "May create improvements on water resources",
 		 "[-100]% construction time for [All] improvements",
 		 "Limited to [5] per Civilization",
 		 "Only available <for [Human player]>", 
