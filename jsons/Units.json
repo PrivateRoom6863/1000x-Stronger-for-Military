@@ -28,11 +28,11 @@
 	         "hurryCostModifier": 0
  },
  {
-	"name": "KratoS",
-	 "unitType": "Class S Military",
+	"name": "Invulnerable Trooper",
+	 "unitType": "Class S Trooper",
 	 "uniques": [
-		 "Invulnerability",
-		 "Limited to [5] per Civilization",
+		 "This Unit gains the [More Invulnerability] promotion",
+		 "Limited to [1] per Civilization",
 		 "Only available <for [Human player]>", 
 		 "Uncapturable"],
 	 "movement": 2
