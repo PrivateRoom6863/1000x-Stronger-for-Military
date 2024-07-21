@@ -35,6 +35,7 @@
 		 "Limited to [1] per Civilization",
 		 "Only available <for [Human player]>", 
 		 "Uncapturable"],
+	 "strength": 75
 	 "movement": 2
 	         "cost": 0
 	         "hurryCostModifier": 0
