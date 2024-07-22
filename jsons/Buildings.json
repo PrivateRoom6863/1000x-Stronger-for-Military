@@ -1,24 +1,32 @@
 
 [
 	{
-	   "name": "-100% unhappiness",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
-		    "Destroyed when the city is captured",
-		    "Only available <for [Human player]>",
-		    "Unbuildable",
-		    "Limited to [1] per Civilization",
-		    "[-100]% Unhappiness from [Population] [in all cities]",
-		    "[-100]% unhappiness from the number of cities"]
+	   "name": "More -10% unhappiness",
+	   "uniques": [ "Comment [More -10 unhappiness everytime u buy it]",
+		    "Comment [Not Buildable for AIs + Destroyed if this city is captured]", 
+		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Can be continually purchased <hidden from users>",
+		    "Remove [More -10 unhappiness] [in this city] <hidden from users> ",
+		    "Unbuildable <hidden from users> ",
+		    "Limited to [1] per Civilization <hidden from users> ",
+		    "[-10]% Unhappiness from [Population] [in all cities] <for [9999] turns> <hidden from users> ",
+		    "[-10]% unhappiness from the number of cities <for [9999] turns> <hidden from users> "]
 	},
 	{
-	   "name": "-50% unhappiness",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
-		    "Destroyed when the city is captured",
-		    "Only available <for [Human player]>",
-		    "Unbuildable",
-		    "Limited to [1] per Civilization",
-		    "[-50]% Unhappiness from [Population] [in all cities]",
-		    "[-50]% unhappiness from the number of cities"]
+	   "name": "More +10% unhappiness",
+	   "uniques": [ "Comment [More +10 unhappiness everytime u buy it]",
+		   "Comment [Not Buildable for AIs + Destroyed if this city is captured]", 
+		    "Can be purchased for [0] [Gold] [in this city]",
+		    "Destroyed when the city is captured <hidden from users> ",
+		    "Only available <for [Human player]> <hidden from users> ",
+		    "Can be continually purchased <hidden from users> ",
+		    "Unbuildable <hidden from users> ",
+		    "Remove [More +10% unhappiness] [in this city] <hidden from users> ",
+		    "Limited to [1] per Civilization <hidden from users> ",
+		    "[+10]% Unhappiness from [Population] [in all cities] <for [9999] turns> <hidden from users> ",
+		    "[+10]% unhappiness from the number of cities <for [9999] turns> <hidden from users> "]
 	},
 	{
 	   "name": "+9999999 golden age length",
@@ -57,7 +65,7 @@
 		    "[+99999999]% Strength for cities <when defending>" ]
 	},
 	{
-	   "name": "No Maintenance",
+	   "name": "-25 Maintenance",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
 		    "Destroyed when the city is captured",
 		    "Only available <for [Human player]>",
