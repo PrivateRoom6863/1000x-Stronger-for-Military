@@ -79,40 +79,40 @@
 		    "[+99999999]% Strength for cities <when defending> <hidden from users>" ]
 	},
 	{
-	   "name": "More -25 Maintenance",
+	   "name": "More -10 Maintenance",
 	   "uniques": [ 
 		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		          "Instantly provides [1] [-Maintenance] <hidden from users>", 
 		   "Instantly consumes [1] [+Maintenance] <hidden from users>",
-		    "Unavailable <when above [4] [-Maintenance]> <hidden from users>",
+		    "Unavailable <when above [9] [-Maintenance]> <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Can be continually purchased <hidden from users> ",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		   "Remove [More -25 Maintenance] [in this city] <hidden from users> ",
-		    "[-25]% maintenance cost for buildings [in all cities] <for [9999] turns> <hidden from users>",
-		    "[-25]% maintenance costs <for [All] units> <for [9999] turns> <hidden from users>",
+		    "[-10]% maintenance cost for buildings [in all cities] <for [9999] turns> <hidden from users>",
+		    "[-10]% maintenance costs <for [All] units> <for [9999] turns> <hidden from users>",
 		    "No Maintenance costs for improvements in [All] tiles <for [9999] turns> <hidden from users>",
-		    "[-25]% maintenance on road & railroads <for [9999] turns> <hidden from users>"]
+		    "[-10]% maintenance on road & railroads <for [9999] turns> <hidden from users>"]
 	},
 	{
-	   "name": "More +25 Maintenance",
+	   "name": "More +10 Maintenance",
 	   "uniques": [ 
 		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
 		          "Instantly provides [1] [+Maintenance] <hidden from users>", 
 		   "Instantly consumes [1] [-Maintenance] <hidden from users>",
-		    "Unavailable <when above [2] [+Maintenance]> <hidden from users>",
+		    "Unavailable <when above [4] [+Maintenance]> <hidden from users>",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Can be continually purchased <hidden from users> ",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		   "Remove [More +25 Maintenance] [in this city] <hidden from users> ",
-		    "[+25]% maintenance cost for buildings [in all cities] <for [9999] turns> <hidden from users>",
-		    "[+25]% maintenance costs <for [All] units> <for [9999] turns> <hidden from users>",
+		    "[+10]% maintenance cost for buildings [in all cities] <for [9999] turns> <hidden from users>",
+		    "[+10]% maintenance costs <for [All] units> <for [9999] turns> <hidden from users>",
 		    "No Maintenance costs for improvements in [All] tiles <for [9999] turns> <hidden from users>",
-		    "[+25]% maintenance on road & railroads <for [9999] turns> <hidden from users>"]
+		    "[+10]% maintenance on road & railroads <for [9999] turns> <hidden from users>"]
 	},
 	{
 	   "name": "Buy everything",
@@ -149,60 +149,60 @@
 		    "[-99]% construction time for [All] improvements <hidden from users>"]
 	},
 	{
-	   "name": "25+ Unit Production",
+	   "name": "10+ Unit Production",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		   "Can be continually purchased <hidden from users> ",
 		          "Instantly provides [1] [+Unit Production] <hidden from users>", 
 		   "Instantly consumes [1] [-Unit Production] <hidden from users>",
-		    "Unavailable <when above [4] [+Unit Production]> <hidden from users>",
-		    "Remove [35+ Unit Production] [in this city] <hidden from users> ",
+		    "Unavailable <when above [9] [+Unit Production]> <hidden from users>",
+		    "Remove [10+ Unit Production] [in this city] <hidden from users> ",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[+25]% Production when constructing [All] units [in all cities] <for [9999] turns> <hidden from users>"]
+		    "[+10]% Production when constructing [All] units [in all cities] <for [9999] turns> <hidden from users>"]
 	},
 	{
-	   "name": "-25 Unit Production",
+	   "name": "-10 Unit Production",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		   "Can be continually purchased <hidden from users> ",
 		          "Instantly provides [1] [-Unit Production] <hidden from users>",
 		   "Instantly consumes [1] [+Unit Production] <hidden from users>",
-		    "Unavailable <when above [2] [-Unit Production]> <hidden from users>",
-		    "Remove [-35 Unit Production] [in this city] <hidden from users> ",
+		    "Unavailable <when above [4] [-Unit Production]> <hidden from users>",
+		    "Remove [-10 Unit Production] [in this city] <hidden from users> ",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[-25]% Production when constructing [All] units [in all cities] <for [9999] turns> <hidden from users>"]
+		    "[-10]% Production when constructing [All] units [in all cities] <for [9999] turns> <hidden from users>"]
 	},
 	{
-	   "name": "25+ Buildings Production",
+	   "name": "10+ Buildings Production",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
 		   "Can be continually purchased <hidden from users> ",
 		          "Instantly provides [1] [+Buildings Production] <hidden from users>", 
 		   "Instantly consumes [1] [-Buildings Production] <hidden from users>",
-		    "Unavailable <when above [4] [+Buildings Production]> <hidden from users>",
-		   "Remove [35+ Buildings Production] [in this city] <hidden from users> ",
+		    "Unavailable <when above [9] [+Buildings Production]> <hidden from users>",
+		   "Remove [10+ Buildings Production] [in this city] <hidden from users> ",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[+25]% Production when constructing [All] buildings [in all cities] <for [9999] turns> <hidden from users>"]
+		    "[+10]% Production when constructing [All] buildings [in all cities] <for [9999] turns> <hidden from users>"]
 	},
 	{
-	   "name": "-25 Buildings Production",
+	   "name": "-10 Buildings Production",
 	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 		    "Destroyed when the city is captured <hidden from users>",
 		   "Can be continually purchased <hidden from users> ",
 		          "Instantly provides [1] [-Buildings Production] <hidden from users>", 
 		   "Instantly consumes [1] [+Buildings Production] <hidden from users>",
-		    "Unavailable <when above [2] [-Buildings Production]> <hidden from users>",
-		   "Remove [-35 Buildings Production] [in this city] <hidden from users> ",
+		    "Unavailable <when above [4] [-Buildings Production]> <hidden from users>",
+		   "Remove [-10 Buildings Production] [in this city] <hidden from users> ",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[-25]% Production when constructing [All] buildings [in all cities] <for [9999] turns> <hidden from users>"]
+		    "[-10]% Production when constructing [All] buildings [in all cities] <for [9999] turns> <hidden from users>"]
 	},
 	{
 	   "name": "10+ Wonders Production",
