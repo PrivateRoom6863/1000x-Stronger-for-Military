@@ -168,7 +168,7 @@
 		   "Can be continually purchased <hidden from users> ",
 		          "Instantly provides [1] [-Unit Production] <hidden from users>",
 		   "Instantly consumes [1] [+Unit Production] <hidden from users>",
-		    "Unavailable <when above [4] [-Unit Production]> <hidden from users>",
+		    "Unavailable <when above [-1] [-Unit Production]> <hidden from users>",
 		    "Remove [-10 Unit Production] [in this city] <hidden from users> ",
 		    "Destroyed when the city is captured <hidden from users>",
 		    "Only available <for [Human player]> <hidden from users>",
