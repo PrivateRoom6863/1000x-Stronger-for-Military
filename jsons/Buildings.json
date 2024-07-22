@@ -72,16 +72,34 @@
 		    "[+99999999]% Strength for cities <when defending> <hidden from users>" ]
 	},
 	{
-	   "name": "-25 Maintenance",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
-		    "Destroyed when the city is captured",
-		    "Only available <for [Human player]>",
-		    "Unbuildable",
-		    "Limited to [1] per Civilization",
-		    "[-100]% maintenance cost for buildings [in all cities]",
-		    "[-100]% maintenance costs <for [All] units>",
-		    "No Maintenance costs for improvements in [All] tiles",
-		    "[-100]% maintenance on road & railroads"]
+	   "name": "More -25 Maintenance",
+	   "uniques": [ 
+		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Can be continually purchased <hidden from users> ",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		   "Remove [More -25 Maintenance] [in this city] <hidden from users> ",
+		    "[-25]% maintenance cost for buildings [in all cities] <for [9999] turns> <hidden from users>",
+		    "[-25]% maintenance costs <for [All] units> <for [9999] turns> <hidden from users>",
+		    "No Maintenance costs for improvements in [All] tiles <for [9999] turns> <hidden from users>",
+		    "[-25]% maintenance on road & railroads <for [9999] turns> <hidden from users>"]
+	},
+	{
+	   "name": "More +25 Maintenance",
+	   "uniques": [ 
+		    "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Can be continually purchased <hidden from users> ",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		   "Remove [More +25 Maintenance] [in this city] <hidden from users> ",
+		    "[+25]% maintenance cost for buildings [in all cities] <for [9999] turns> <hidden from users>",
+		    "[+25]% maintenance costs <for [All] units> <for [9999] turns> <hidden from users>",
+		    "No Maintenance costs for improvements in [All] tiles <for [9999] turns> <hidden from users>",
+		    "[+25]% maintenance on road & railroads <for [9999] turns> <hidden from users>"]
 	},
 	{
 	   "name": "Buy everything",
