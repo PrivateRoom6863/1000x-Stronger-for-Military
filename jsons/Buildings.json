@@ -1,6 +1,13 @@
 
 [
 	{
+		"name": "1ReadMe"
+		"uniques": [ "Comment [All of these buildings are Unbuildable for AIs so no need to worry + destroyed if city is captured]",
+			"Only available <for [Human player]> <hidden from users>",
+			"Destroyed when the city is captured <hidden from users>",
+			"Unbuildable <hidden from users>"]
+	},
+	{
 	   "name": "More -10% unhappiness",
 	   "uniques": [ "Comment [More -10 unhappiness everytime u buy it]",
 		    "Comment [Not Buildable for AIs + Destroyed if this city is captured]", 
