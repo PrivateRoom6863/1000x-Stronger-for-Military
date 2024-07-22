@@ -37,39 +37,39 @@
 	},
 	{
 	   "name": "+9999999 golden age length",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
-		    "Destroyed when the city is captured",
-		    "Only available <for [Human player]>",
-		    "Unbuildable",
-		    "Limited to [1] per Civilization",
-		    "[+9999999]% Golden Age length"]
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users> ",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[+9999999]% Golden Age length <hidden from users>"]
 	},
 	{
 	   "name": "Immortal Units",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
-		    "Limited to [1] per Civilization",
-		    "Destroyed when the city is captured",
-		    "Unbuildable",
-		    "Only available <for [Human player]>",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
 		    "[Military] units gain the [Omnipotence] promotion" ]
 	},
 	{
 	   "name": "Invulnerable Units",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
-		    "Limited to [1] per Civilization",
-		    "Destroyed when the city is captured",
-		    "Unbuildable",
-		    "Only available <for [Human player]>",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
 		    "[Military] units gain the [More Invulnerability] promotion" ]
 	},
 	{
 	   "name": "Indestructible Cities",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
-		    "Limited to [1] per Civilization",
-		    "Destroyed when the city is captured",
-		    "Unbuildable",
-		    "Only available <for [Human player]>",
-		    "[+99999999]% Strength for cities <when defending>" ]
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "[+99999999]% Strength for cities <when defending> <hidden from users>" ]
 	},
 	{
 	   "name": "-25 Maintenance",
