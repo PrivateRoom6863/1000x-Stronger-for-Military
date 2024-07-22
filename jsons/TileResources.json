@@ -15,4 +15,68 @@
                   "Cannot be traded",
                   "Not shown on world screen"],
  },
+ {
+                "name": "-Maintenance",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Maintenance",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Unit Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "-Unit Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Buildings Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "-Buildings Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Wonders Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "-Wonders Production",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
 ]
