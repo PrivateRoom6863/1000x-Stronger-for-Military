@@ -33,7 +33,9 @@
 	 "unitType": "Class S Trooper",
 	 "uniques": [
 		 "This Unit gains the [More Invulnerability] promotion",
+		 "Can be purchased for [0] [Gold] [in this city]",
 		 "Limited to [5] per Civilization",
+		 "Unbuildable",
 		 "Only available <for [Human player]>", 
 		 "All adjacent units heal [+100] HP when healing", "[+100] HP when healing",
 		 "[+750]% Strength bonus for [Military] units within [4] tiles",
