@@ -3,6 +3,7 @@
 	{
 		"name": "1ReadMe"
 		"uniques": [ "Comment [All of these buildings are Unbuildable for AIs so no need to worry + destroyed if city is captured]",
+			"Can be purchased for [0] [Gold] [in this city] <hidden from users>",
 			"Only available <for [Human player]> <hidden from users>",
 			"Destroyed when the city is captured <hidden from users>",
 			"Unbuildable <hidden from users>"]
