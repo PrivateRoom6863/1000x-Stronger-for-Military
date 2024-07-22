@@ -136,22 +136,70 @@
 		    "[-99]% construction time for [All] improvements <hidden from users>"]
 	},
 	{
-	   "name": "100+ Unit Production",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
-		    "Destroyed when the city is captured",
-		    "Only available <for [Human player]>",
-		    "Unbuildable",
-		    "Limited to [1] per Civilization",
-		    "[+150]% Production when constructing [All] units [in all cities]"]
+	   "name": "35+ Unit Production",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		   "Can be continually purchased <hidden from users> ",
+		    "Remove [35+ Unit Production] [in this city] <hidden from users> ",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[+35]% Production when constructing [All] units [in all cities] <for [9999] turns> <hidden from users>"]
 	},
 	{
-	   "name": "100+ Buildings Production",
-	   "uniques": [ "Can be purchased for [0] [Gold] [in this city]",
-		    "Destroyed when the city is captured",
-		    "Only available <for [Human player]>",
-		    "Unbuildable",
-		    "Limited to [1] per Civilization",
-		    "[+150]% Production when constructing [All] buildings [in all cities]"]
+	   "name": "-35 Unit Production",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		   "Can be continually purchased <hidden from users> ",
+		    "Remove [-35 Unit Production] [in this city] <hidden from users> ",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[-35]% Production when constructing [All] units [in all cities] <for [9999] turns> <hidden from users>"]
+	},
+	{
+	   "name": "35+ Buildings Production",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		   "Can be continually purchased <hidden from users> ",
+		   "Remove [35+ Buildings Production] [in this city] <hidden from users> ",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[+35]% Production when constructing [All] buildings [in all cities] <for [9999] turns> <hidden from users>"]
+	},
+	{
+	   "name": "-35 Buildings Production",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		   "Can be continually purchased <hidden from users> ",
+		   "Remove [-35 Buildings Production] [in this city] <hidden from users> ",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[-35]% Production when constructing [All] buildings [in all cities] <for [9999] turns> <hidden from users>"]
+	},
+	{
+	   "name": "10+ Wonders Production",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		   "Can be continually purchased <hidden from users> ",
+		   "Remove [10+ Wonders Production] [in this city] <hidden from users> ",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[+10]% Production when constructing [All] wonders [in all cities] <for [9999] turns> <hidden from users>"]
+	},
+	{
+	   "name": "-10 Wonders Production",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		   "Can be continually purchased <hidden from users> ",
+		   "Remove [-10 Wonders Production] [in this city] <hidden from users> ",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[-10]% Production when constructing [All] wonders [in all cities] <for [9999] turns> <hidden from users>"]
 	},
 	{
 	   "name": "Unit Rewards Bonus except Faith",
