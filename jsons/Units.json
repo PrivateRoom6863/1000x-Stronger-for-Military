@@ -20,6 +20,7 @@
 		 "Can build [Land] improvements on tiles",
 		 "Can build [Water] improvements on tiles",
 		 "[-100]% construction time for [All] improvements",
+		 "Can instantly construct a [All] improvement <for [0] turns>",
 		 "Limited to [5] per Civilization",
 		 "Only available <for [Human player]>", 
 		 "Uncapturable"],
