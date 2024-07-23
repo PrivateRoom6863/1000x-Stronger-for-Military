@@ -16,7 +16,7 @@
                   "Not shown on world screen"],
  },
  {
-                "name": "-Culture Cost",
+                "name": "-Culture Cost Border",
                 "resourceType": "Strategic",
                 "uniques": [
                   "Stockpiled",
@@ -24,7 +24,7 @@
                   "Not shown on world screen"],
  },
  {
-                "name": "+Culture Cost",
+                "name": "+Culture Cost Border",
                 "resourceType": "Strategic",
                 "uniques": [
                   "Stockpiled",
