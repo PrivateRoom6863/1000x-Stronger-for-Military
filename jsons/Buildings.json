@@ -28,7 +28,7 @@
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
-		    "[+5 Gold, +5 Production, +5 Culture] [in all cities] <hidden from users>"]
+		    "[+5 Gold, +5 Production, +5 Food, +5 Culture, +5 Science] [in all cities] <hidden from users>"]
 	},
 	{
 	   "name": "+5 faith",
