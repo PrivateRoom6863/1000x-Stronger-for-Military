@@ -16,6 +16,38 @@
                   "Not shown on world screen"],
  },
  {
+                "name": "-Culture Cost",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Culture Cost",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "+Food Carry",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
+                "name": "-Food Carry",
+                "resourceType": "Strategic",
+                "uniques": [
+                  "Stockpiled",
+                  "Cannot be traded",
+                  "Not shown on world screen"],
+ },
+ {
                 "name": "-Maintenance",
                 "resourceType": "Strategic",
                 "uniques": [
