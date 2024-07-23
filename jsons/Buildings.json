@@ -9,6 +9,39 @@
 			"Unbuildable <hidden from users>"]
 	},
 	{
+	   "name": "Starter Pack",
+	   "uniques": [ "Comment [You Gain 6 units in total]",
+		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		   "Unsellable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[+3] free [Normal Worker] units appear <hidden from users>",
+	            "[+3] free [Normal Settler] units appear <hidden from users>"]
+	},
+	{
+	   "name": "+5 stats",
+	   "uniques": [ "Comment [+5 every stats except faith in your cities]",
+		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[+5 Gold, +5 Production, +5 Culture] [in all cities] <hidden from users>"]
+	},
+	{
+	   "name": "+5 faith",
+	   "uniques": [ "Comment [+5 faith in your cities]",
+		   "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[+5 Faith] [in all cities] <hidden from users>",
+	            "Hidden when religion is disabled"]
+	},
+	{
 	   "name": "0 to 100% happiness",
 	   "uniques": [ "Comment [More -10 unhappiness everytime u buy it]",
 		    "Comment [Not Buildable for AIs + Destroyed if this city is captured]", 
@@ -138,6 +171,15 @@
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
 		    "[150] Unit Supply per city <hidden from users>"]
+	},
+	{
+	   "name": "+5 supply per 1 pops",
+	   "uniques": [ "Can be purchased for [0] [Gold] [in this city] <hidden from users>",
+		    "Destroyed when the city is captured <hidden from users>",
+		    "Only available <for [Human player]> <hidden from users>",
+		    "Unbuildable <hidden from users>",
+		    "Limited to [1] per Civilization <hidden from users>",
+		    "[5] Unit Supply per [1] population [in all cities] <hidden from users>"]
 	},
 	{
 	   "name": "1 Turn Construction",
