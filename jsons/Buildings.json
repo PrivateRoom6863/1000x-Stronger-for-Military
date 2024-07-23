@@ -111,7 +111,7 @@
 		          "Instantly provides [1] [-Culture Cost Border] <hidden from users>", 
 		   "Instantly consumes [1] [+Culture Cost Border] <hidden from users>",
 		    "Unavailable <when above [9] [-Culture Cost Border]> <hidden from users>",
-		   "Remove [0 to 100% Natural Border Cost] [in this city] <hidden from users> ",
+		   "Remove [0 to -100% Natural Border Cost] [in this city] <hidden from users> ",
 		    "Only available <for [Human player]> <hidden from users>",
 		    "Unbuildable <hidden from users>",
 		    "Limited to [1] per Civilization <hidden from users>",
